@@ -1,3 +1,3 @@
 # cartpole-sys
 
-Not formatted // needs updated vers - if I can find it
+Using non-linear regression and model-based reinforcement learning to balance a cart pole system
